@@ -55,7 +55,7 @@ public class Main {
         System.out.println("Всего работников в компании " + worker + " человек");
         var otherWorker = 94;
         var workerOtherCompany = otherWorker + worker;
-        System.out.println("Количество сотрудников в другой компании " + workerOtherCompany + " человек");
+        System.out.println("Kоличество сотрудников в другой компании " + workerOtherCompany + " человек");
         var totalTimeOtherCompany = workerOtherCompany * time;
         System.out.println("часы работы поделено между сотрудниками " + totalTimeOtherCompany);
 
